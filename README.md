@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there 👋, I'm Faiza Ozavize Jimoh
 
-<!--
-**Faiza-creator/Faiza-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💜 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Undergraduate (NOUN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Head of Network Operations
+
+🛡️ Aspiring Cybersecurity Analyst
+
+🌱 Currently learning Cybersecurity through TryHackMe
+
+🎥 Video Editor & Content Creator
+
+---
+
+## 🚀 Current Focus
+
+- Network Operations
+- Cybersecurity
+- Linux Fundamentals
+- Windows Fundamentals
+- Networking
+- IT Support
+
+---
+
+## 🛠️ Technical Skills
+
+- Grafana
+- Huawei iMaster MAE
+- Microsoft Office
+- Incident Management
+- Network Monitoring
+- Technical Documentation
+
+---
+
+## 📚 Current Learning
+
+- TryHackMe
+- Networking
+- Linux
+- Windows
+- SOC Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/faiza-jimoh-5ab38935a
+- Email: faizajimoh6@gmail.com
+
+---
+
+*"Learning one step at a time, growing one challenge at a time."*
